@@ -85,3 +85,8 @@ p, li,.col em {
     width: 150px;
     height: 15px;
   }
+code{
+    margin-left: 10px;
+    margin-bottom: 100px;
+    color: black;
+}
